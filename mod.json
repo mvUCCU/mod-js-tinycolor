@@ -1,0 +1,8 @@
+{
+  "name": "js-tinycolor",
+  "version": "1.3.0",
+  "description": "JavaScript library: TinyColor (https://github.com/bgrins/TinyColor)",
+  "dependencies": {},
+  "author": "Brian Grinstead",
+  "homepage": "https://github.com/RMMVMod/mod-js-tinycolor"
+}
